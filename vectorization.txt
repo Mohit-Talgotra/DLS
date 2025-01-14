@@ -1,0 +1,7 @@
+np.dot() takes much less time than actual for loops, it uses parallelization to speed up the code
+
+in vectorization, always avoid for loops if you can
+
+use numpy
+
+Note: both gpu and cpu have parallelization capabilities, gpus are just much better at it
